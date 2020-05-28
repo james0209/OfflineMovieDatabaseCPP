@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/cw2.dir/main.cpp.o CMakeFiles/cw2.dir/Movie.cpp.o CMakeFiles/cw2.dir/MovieDatabase.cpp.o  -o cw2.exe -Wl,--out-implib,libcw2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

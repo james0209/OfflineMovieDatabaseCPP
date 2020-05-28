@@ -1,0 +1,3 @@
+/cygdrive/c/Users/james/Google Drive/University/Programming 2/cw2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/james/Google Drive/University/Programming 2/cw2/cmake-build-debug/CMakeFiles/cw2.dir
+/cygdrive/c/Users/james/Google Drive/University/Programming 2/cw2/cmake-build-debug/CMakeFiles/edit_cache.dir

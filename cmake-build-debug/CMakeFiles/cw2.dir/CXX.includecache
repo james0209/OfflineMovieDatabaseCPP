@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/james/Google Drive/University/Programming 2/cw2/Movie.cpp
+Movie.h
+/cygdrive/c/Users/james/Google Drive/University/Programming 2/cw2/Movie.h
+string
+-
+sstream
+-
+iostream
+-
+utility
+-
+
+/cygdrive/c/Users/james/Google Drive/University/Programming 2/cw2/Movie.h
+string
+-
+iomanip
+-
+
+/cygdrive/c/Users/james/Google Drive/University/Programming 2/cw2/MovieDatabase.cpp
+algorithm
+-
+sstream
+-
+iostream
+-
+ostream
+-
+iterator
+-
+string
+-
+regex
+-
+fstream
+-
+tgmath.h
+-
+MovieDatabase.h
+/cygdrive/c/Users/james/Google Drive/University/Programming 2/cw2/MovieDatabase.h
+
+/cygdrive/c/Users/james/Google Drive/University/Programming 2/cw2/MovieDatabase.h
+set
+-
+vector
+-
+functional
+-
+Movie.h
+/cygdrive/c/Users/james/Google Drive/University/Programming 2/cw2/Movie.h
+
+/cygdrive/c/Users/james/Google Drive/University/Programming 2/cw2/main.cpp
+iostream
+-
+fstream
+-
+cstdlib
+-
+sstream
+-
+MovieDatabase.h
+/cygdrive/c/Users/james/Google Drive/University/Programming 2/cw2/MovieDatabase.h
+
